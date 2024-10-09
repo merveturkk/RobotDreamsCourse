@@ -1,4 +1,4 @@
-hibernateYapisi
-jdbc
-JPA
-functionalProgramming
+#hibernateYapisi
+#jdbc
+#JPA
+#functionalProgramming
