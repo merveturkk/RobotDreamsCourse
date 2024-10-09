@@ -1,4 +1,6 @@
-#hibernateYapisi
-#jdbc
-#JPA
-#functionalProgramming
+
+
+- Hibernate
+- Jdbc
+- JPA
+- Functional Programming
